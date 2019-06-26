@@ -1,0 +1,14 @@
+{
+  "name": "sensors-setup",
+  "version": "1.0.0",
+  "description": "Raspberry Pi 2 & Arduino working together on gathering & sharing some data from sensors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lip3k",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^1.1.0"
+  }
+}
